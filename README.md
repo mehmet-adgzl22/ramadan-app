@@ -29,6 +29,9 @@ Responsive tasarım sayesinde tüm cihazlarda düzgün çalışır.
 
 ---
 
-## Proje Gifi 
+##  Ramazan Ajanda Uygulama Gifi 
+![ramadan-app-r](https://github.com/user-attachments/assets/6bf60841-69f4-4b69-b621-1a9be900f4b0)
 
+##  Ramazan Ajanda Uygulama Bağlantı Linki
+https://ramazan-app.netlify.app/
 
